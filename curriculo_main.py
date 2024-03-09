@@ -13,6 +13,6 @@ search_box.send_keys("João Emmanuel Ferreira Cabral")
 search_box=driver.find_element(By.XPATH,'//*[@id="email"]')
 search_box.send_keys('joaoefcabral@gmail.com')
 search_box=driver.find_element(By.XPATH,'//*[@id="projeto"]')
-search_box.send_keys('https://github.com/JEFC55')
+search_box.send_keys('https://github.com/JEFC55/Curriculo/blob/main/curriculo_main.py')
 
 time.sleep(5)
